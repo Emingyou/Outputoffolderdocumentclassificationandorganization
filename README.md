@@ -13,6 +13,7 @@
 
 
 ## 二、界面元素说明
+<img width="748" height="536" alt="image" src="https://github.com/user-attachments/assets/9aff58d2-dbd4-4ec8-b4d9-55cc16459002" />
 
 工具界面分为多个功能区域，各元素功能如下：
 
